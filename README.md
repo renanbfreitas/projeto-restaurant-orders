@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/static/v1?label=Objetivo&message=Contexto&color=blue&style=for-the-badge&logo=github"/>
 <p></p>
 
-No projeto TING foi aplicado um programa que simule um algoritmo de indexação de documentos similar ao do Google. 
+No projeto Restaurant orders foi aplicado estruturas de dados Hashmap, implementado em Python pelas classes Dict e Set, mais a estrutura Conjunto. 
 
-Seu programa deverá ser capaz de identificar ocorrências de termos em arquivos TXT.
+Também foi utilizado a prática de testes.
 
 ---   
 <div align="center">
